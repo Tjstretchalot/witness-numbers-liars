@@ -853,3 +853,299 @@ The top 10 least reliable witnesses for values up to 9999 are:
 8.  1568 with 23 lies
 9.  1024 with 22 lies
 10. 1207 with 22 lies
+When N=10585, the top 10 changes:
+1568 is now in position 7 with 24 lies
+529 is now in position 8 with 23 lies
+1451 enters the top 10 at spot 10 with 23 lies
+1207 exits the top 10 with only 22 lies
+
+When N=11989, the top 10 changes:
+1024 is now in position 8 with 24 lies
+529 is now in position 9 with 23 lies
+
+When N=12403, the top 10 changes:
+729 is now in position 5 with 31 lies
+64 is now in position 6 with 30 lies
+81 enters the top 10 at spot 9 with 24 lies
+900 enters the top 10 at spot 10 with 24 lies
+529 exits the top 10 with only 23 lies
+1451 exits the top 10 with only 23 lies
+
+When N=12673, the top 10 changes:
+900 is now in position 9 with 25 lies
+81 is now in position 10 with 24 lies
+
+When N=12775, the top 10 changes:
+1451 enters the top 10 at spot 10 with 25 lies
+81 exits the top 10 with only 24 lies
+
+When N=13571, the top 10 changes:
+4096 is now in position 2 with 41 lies
+16 is now in position 3 with 40 lies
+
+When N=13981, the top 10 changes:
+529 enters the top 10 at spot 9 with 27 lies
+900 is now in position 10 with 26 lies
+1451 exits the top 10 with only 26 lies
+
+When N=14527, the top 10 changes:
+1451 enters the top 10 at spot 10 with 27 lies
+900 exits the top 10 with only 26 lies
+
+When N=14707, the top 10 changes:
+1024 is now in position 7 with 30 lies
+1568 is now in position 8 with 29 lies
+
+When N=14725, the top 10 changes:
+1451 is now in position 9 with 28 lies
+529 is now in position 10 with 27 lies
+
+When N=14981, the top 10 changes:
+529 is now in position 9 with 29 lies
+1451 is now in position 10 with 28 lies
+
+When N=15051, the top 10 changes:
+529 is now in position 8 with 30 lies
+1568 is now in position 9 with 29 lies
+
+When N=15211, the top 10 changes:
+625 enters the top 10 at spot 10 with 29 lies
+1451 exits the top 10 with only 28 lies
+
+When N=16297, the top 10 changes:
+1568 is now in position 8 with 31 lies
+625 is now in position 9 with 31 lies
+529 is now in position 10 with 30 lies
+
+The top 10 least reliable witnesses for values up to 16383 are:
+1.  256 with 71 lies
+2.  4096 with 59 lies
+3.  16 with 49 lies
+4.  1296 with 41 lies
+5.  729 with 39 lies
+6.  64 with 36 lies
+7.  1024 with 33 lies
+8.  1568 with 31 lies
+9.  625 with 31 lies
+10. 529 with 30 lies
+When N=16471, the top 10 changes:
+81 enters the top 10 at spot 10 with 31 lies
+529 exits the top 10 with only 30 lies
+
+When N=18299, the top 10 changes:
+900 enters the top 10 at spot 10 with 33 lies
+81 exits the top 10 with only 32 lies
+
+When N=18631, the top 10 changes:
+625 is now in position 8 with 34 lies
+1568 is now in position 9 with 33 lies
+
+When N=19345, the top 10 changes:
+81 enters the top 10 at spot 9 with 34 lies
+1568 is now in position 10 with 33 lies
+900 exits the top 10 with only 33 lies
+
+When N=19517, the top 10 changes:
+529 enters the top 10 at spot 10 with 34 lies
+1568 exits the top 10 with only 33 lies
+
+When N=19951, the top 10 changes:
+1568 enters the top 10 at spot 9 with 35 lies
+81 is now in position 10 with 34 lies
+529 exits the top 10 with only 34 lies
+
+The top 10 least reliable witnesses for values up to 19999 are:
+1.  256 with 76 lies
+2.  4096 with 71 lies
+3.  16 with 52 lies
+4.  1296 with 47 lies
+5.  729 with 44 lies
+6.  64 with 39 lies
+7.  1024 with 39 lies
+8.  625 with 35 lies
+9.  1568 with 35 lies
+10. 81 with 34 lies
+When N=20263, the top 10 changes:
+1024 is now in position 6 with 40 lies
+64 is now in position 7 with 39 lies
+
+When N=21223, the top 10 changes:
+529 enters the top 10 at spot 10 with 35 lies
+81 exits the top 10 with only 34 lies
+
+When N=21667, the top 10 changes:
+529 is now in position 9 with 36 lies
+1568 is now in position 10 with 35 lies
+
+When N=22177, the top 10 changes:
+529 is now in position 8 with 37 lies
+625 is now in position 9 with 36 lies
+
+When N=23275, the top 10 changes:
+1451 enters the top 10 at spot 10 with 36 lies
+1568 exits the top 10 with only 35 lies
+
+When N=23653, the top 10 changes:
+625 is now in position 8 with 38 lies
+529 is now in position 9 with 37 lies
+
+When N=23959, the top 10 changes:
+1296 is now in position 3 with 54 lies
+16 is now in position 4 with 53 lies
+
+When N=24457, the top 10 changes:
+1568 enters the top 10 at spot 10 with 37 lies
+1451 exits the top 10 with only 36 lies
+
+When N=25201, the top 10 changes:
+529 is now in position 8 with 40 lies
+625 is now in position 9 with 39 lies
+
+When N=25351, the top 10 changes:
+625 is now in position 8 with 41 lies
+529 is now in position 9 with 40 lies
+
+When N=26599, the top 10 changes:
+900 enters the top 10 at spot 10 with 39 lies
+1568 exits the top 10 with only 38 lies
+
+When N=26691, the top 10 changes:
+4096 is now in position 1 with 88 lies
+256 is now in position 2 with 87 lies
+
+When N=27133, the top 10 changes:
+900 is now in position 9 with 41 lies
+529 is now in position 10 with 40 lies
+
+When N=28925, the top 10 changes:
+1568 enters the top 10 at spot 10 with 41 lies
+529 exits the top 10 with only 40 lies
+
+When N=29161, the top 10 changes:
+6561 enters the top 10 at spot 10 with 42 lies
+1568 exits the top 10 with only 41 lies
+
+When N=29341, the top 10 changes:
+6561 is now in position 9 with 43 lies
+900 is now in position 10 with 42 lies
+
+When N=29539, the top 10 changes:
+625 is now in position 7 with 44 lies
+64 is now in position 8 with 43 lies
+
+When N=30857, the top 10 changes:
+6561 is now in position 8 with 44 lies
+64 is now in position 9 with 43 lies
+1568 enters the top 10 at spot 10 with 43 lies
+900 exits the top 10 with only 42 lies
+
+When N=31525, the top 10 changes:
+1568 is now in position 9 with 44 lies
+64 is now in position 10 with 43 lies
+
+When N=31697, the top 10 changes:
+6561 is now in position 7 with 47 lies
+625 is now in position 8 with 46 lies
+
+The top 10 least reliable witnesses for values up to 32767 are:
+1.  4096 with 104 lies
+2.  256 with 96 lies
+3.  1296 with 67 lies
+4.  16 with 62 lies
+5.  729 with 59 lies
+6.  1024 with 50 lies
+7.  6561 with 47 lies
+8.  625 with 47 lies
+9.  1568 with 45 lies
+10. 64 with 44 lies
+When N=32791, the top 10 changes:
+81 enters the top 10 at spot 10 with 45 lies
+64 exits the top 10 with only 44 lies
+
+When N=35371, the top 10 changes:
+64 enters the top 10 at spot 9 with 46 lies
+1568 is now in position 10 with 45 lies
+81 exits the top 10 with only 45 lies
+
+When N=36661, the top 10 changes:
+625 is now in position 7 with 49 lies
+6561 is now in position 8 with 48 lies
+
+When N=37231, the top 10 changes:
+1568 is now in position 9 with 47 lies
+64 is now in position 10 with 46 lies
+
+When N=40885, the top 10 changes:
+1568 is now in position 8 with 50 lies
+6561 is now in position 9 with 49 lies
+
+When N=41041, the top 10 changes:
+625 is now in position 6 with 54 lies
+1024 is now in position 7 with 53 lies
+
+When N=42679, the top 10 changes:
+900 enters the top 10 at spot 10 with 49 lies
+64 exits the top 10 with only 48 lies
+
+When N=45367, the top 10 changes:
+6561 is now in position 8 with 55 lies
+1568 is now in position 9 with 54 lies
+
+When N=47197, the top 10 changes:
+6561 is now in position 7 with 58 lies
+1024 is now in position 8 with 57 lies
+
+The top 10 least reliable witnesses for values up to 49999 are:
+1.  4096 with 138 lies
+2.  256 with 119 lies
+3.  1296 with 89 lies
+4.  16 with 77 lies
+5.  729 with 71 lies
+6.  625 with 61 lies
+7.  6561 with 61 lies
+8.  1024 with 59 lies
+9.  1568 with 56 lies
+10. 900 with 53 lies
+When N=50635, the top 10 changes:
+6561 is now in position 6 with 62 lies
+625 is now in position 7 with 61 lies
+
+When N=51491, the top 10 changes:
+64 enters the top 10 at spot 10 with 54 lies
+900 exits the top 10 with only 53 lies
+
+When N=54161, the top 10 changes:
+64 is now in position 9 with 57 lies
+1568 is now in position 10 with 56 lies
+
+When N=54691, the top 10 changes:
+625 is now in position 6 with 66 lies
+6561 is now in position 7 with 65 lies
+
+When N=55651, the top 10 changes:
+900 enters the top 10 at spot 10 with 57 lies
+1568 exits the top 10 with only 56 lies
+
+When N=55969, the top 10 changes:
+6561 is now in position 6 with 67 lies
+625 is now in position 7 with 66 lies
+
+When N=56185, the top 10 changes:
+1568 enters the top 10 at spot 10 with 58 lies
+900 exits the top 10 with only 57 lies
+
+When N=65077, the top 10 changes:
+1024 is now in position 7 with 70 lies
+625 is now in position 8 with 69 lies
+
+The top 10 least reliable witnesses for values up to 65535 are:
+1.  4096 with 169 lies
+2.  256 with 134 lies
+3.  1296 with 100 lies
+4.  16 with 89 lies
+5.  729 with 81 lies
+6.  6561 with 75 lies
+7.  1024 with 71 lies
+8.  625 with 69 lies
+9.  64 with 65 lies
+10. 1568 with 61 lies
