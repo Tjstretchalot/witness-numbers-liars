@@ -27,13 +27,6 @@ func main() {
 		32768,
 		50000,
 		65536,
-		100000,
-		131072,
-		200000,
-		262144,
-		400000,
-		500000,
-		524288,
 	}
 
 	runningTotal := milrabliars.NewRunningTotalLiars()
