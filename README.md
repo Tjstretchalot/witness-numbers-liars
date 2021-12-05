@@ -24,7 +24,7 @@ testable examples are available in `algorithm_test.go`. These can be
 run using `go test`.
 
 The logic for keeping track of the running totals is in `data.go`, and how they
-are exported is handled in `output.go`
+are exported is handled in `main.go`.
 
 The entrypoint is `main.go`.
 
